@@ -3,6 +3,13 @@ body {
 	font-weight: 300;
 }
 
+.fb-like{
+	position:absolute;
+	top:40%;
+	left:50%;
+	transform: translate(-50%,0);
+}
+
 .stil{
 	background-color:#3a5273;
 	}
